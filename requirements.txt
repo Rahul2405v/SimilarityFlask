@@ -1,9 +1,9 @@
-Flask==2.3.3
-flask-cors==4.0.0
-gunicorn==21.2.0
+Flask
+flask-cors
+gunicorn
 docx2txt
-PyPDF2==3.0.1
-scikit-learn==1.4.2
-sentence-transformers==2.2.2
-torch>=1.13.0
-transformers>=4.30.0
+PyPDF2
+scikit-learn
+sentence-transformers
+torch
+transformers
