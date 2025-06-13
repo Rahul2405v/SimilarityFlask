@@ -1,7 +1,7 @@
 Flask==2.3.3
 flask-cors==4.0.0
 gunicorn==21.2.0
-docx2txt==1.0
+docx2txt
 PyPDF2==3.0.1
 scikit-learn==1.4.2
 sentence-transformers==2.2.2
